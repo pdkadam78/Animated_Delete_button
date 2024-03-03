@@ -15,7 +15,7 @@
     background: none;
     padding: 10px 24px;
     border-radius: 7px;
-    min-width: 142px;
+    min-width: 100px;
     /* -webkit-appearance: none; */
     -webkit-tap-highlight-color: transparent;
     cursor: pointer;
